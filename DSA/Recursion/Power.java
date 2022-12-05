@@ -1,4 +1,4 @@
-import java.math.*;
+// import java.math.*;
 class Power {
 
     public static void main(String[] args) {
